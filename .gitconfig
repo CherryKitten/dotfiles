@@ -1,0 +1,5 @@
+[user]
+	name = CherryKitten
+	email = github@sammy.moe
+[core]
+	excludesfile = ~/.globalgitignore

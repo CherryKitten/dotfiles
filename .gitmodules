@@ -1,0 +1,24 @@
+[submodule "submodules/tmux-plugins/tmux-battery"]
+	path = submodules/tmux-plugins/tmux-battery
+	url = https://github.com/tmux-plugins/tmux-battery/
+[submodule "submodules/tmux-plugins/tmux-cpu"]
+	path = submodules/tmux-plugins/tmux-cpu
+	url = https://github.com/tmux-plugins/tmux-cpu
+[submodule "submodules/tmux-plugins/tmux-online-status"]
+	path = submodules/tmux-plugins/tmux-online-status
+	url = https://github.com/tmux-plugins/tmux-online-status/
+[submodule "submodules/tmux-plugins/tmux-sensible"]
+	path = submodules/tmux-plugins/tmux-sensible
+	url = https://github.com/tmux-plugins/tmux-sensible
+[submodule "submodules/tmux-plugins/tpm"]
+	path = submodules/tmux-plugins/tpm
+	url = https://github.com/tmux-plugins/tpm
+[submodule "submodules/vim-plugins/Vundle.vim"]
+	path = submodules/vim-plugins/Vundle.vim
+	url = https://github.com/VundleVim/Vundle.vim
+[submodule "submodules/vim-plugins/vim-latex-live-preview"]
+	path = submodules/vim-plugins/vim-latex-live-preview
+	url = https://github.com/xuhdev/vim-latex-live-preview
+[submodule "submodules/vim-plugins/vim-tmux"]
+	path = submodules/vim-plugins/vim-tmux
+	url = https://github.com/tmux-plugins/vim-tmux/
