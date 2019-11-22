@@ -10,8 +10,3 @@ alias git'hub'
 # Quick clear Terminal
 alias c='clear'
 
-# Alias pip to pip3 on macOS
-if [[ $OSTYPE == 'darwin'* ]]; then
-  alias pip='pip3'
-fi
-  
