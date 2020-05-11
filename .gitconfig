@@ -3,3 +3,4 @@
 	email = github@sammy.moe
 [core]
 	excludesfile = ~/.globalgitignore
+	editor = vi
